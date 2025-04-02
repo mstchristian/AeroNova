@@ -27,3 +27,12 @@ La conexión del circuito es la siguiente:
 - GND -> GND
 - SCK -> A5
 - SDI -> A4
+
+2. APC220
+- GND -> GND
+- VCC -> 5V
+- RXD -> 1(TX)
+- TXD -> 0(RX)
+
+### RX
+1. APC220 -> USB -> PC
