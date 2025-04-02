@@ -1,11 +1,12 @@
 # AeroNova
-![AeroNova](https://github.com/mstchristian/AeroNova/images/Logo.png)
+![AeroNova](https://github.com/mstchristian/AeroNova/blob/main/images/Logo.png?raw=true)
 *AeroNova es un equipo formado para el concurso CanSat,*
 *Con apoyo del Ies.Europa Móstoles, el equipo esta formado por:*
 1. Christian Aceves
 2. Sebastián David
 3. Marta Bravo
 4. Noor Gonzalez
+
 *Nuestra misión es medir el CO, CO2 y CH4 para ver la contaminación de la atmósfera.*
 
 ## Componentes
