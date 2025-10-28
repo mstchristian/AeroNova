@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/mstchristian/AeroNova/assets/icon.png" alt="AeroNova Logo" width="200"/>
+    <img src="https://raw.githubusercontent.com/mstchristian/AeroNova/refs/heads/main/assets/icon.png" alt="AeroNova Logo" width="200"/>
 </p>
 
 # AeroNova
