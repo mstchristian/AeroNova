@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/mstchristian/AeroNova/assets/icon.png" alt="AeroNova Logo" width="200"/>
+</p>
+
 # AeroNova
 Official repository of CanSat's AeroNova group  
 
