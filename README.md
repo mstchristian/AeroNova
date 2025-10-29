@@ -16,3 +16,8 @@ Our mission is to design, build, and launch a mini-satellite (CanSat) capable of
 
 ## About the Project
 AeroNova’s CanSat integrates mechanical design, electronics, and software to simulate the functions of a real satellite within the size constraints of a soda can. The project combines innovation, teamwork, and engineering to achieve reliable data collection and transmission throughout the mission.
+
+## Libraries Used
+- [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)
+- [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
+- [Adafruit_Sensor](https://github.com/adafruit/Adafruit_Sensor)
