@@ -21,3 +21,7 @@ AeroNova’s CanSat integrates mechanical design, electronics, and software to s
 - [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)
 - [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
 - [Adafruit_Sensor](https://github.com/adafruit/Adafruit_Sensor)
+
+## Follow Us
+Stay updated with AeroNova’s progress and launches:
+- **Instagram:** [@cansat.aeronova](https://www.instagram.com/cansat.aeronova)
